@@ -1,5 +1,6 @@
-![](./userprofile/public/images/user_profile_one.png)
-![](./userprofile/public/images/user_profile_two.png)
+![](../userprofile/public/images/user_profile_one.png)
+
+![](../userprofile/public/images/user_profile_two.png)
 
 # 🧑‍💻 User Profile Page
  This simple project fetches user data from an backend and displays it on a profile page. It also includes an "Edit Profile" form that allows users to update their profile details.
