@@ -1,5 +1,8 @@
 ![](./userprofile/public/images/user_profile_one.png)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5d6918e (Add JWT authentication for login functionality)
 ![](./userprofile/public/images/user_profile_two.png)
 
 # 🧑‍💻 User Profile Page
